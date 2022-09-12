@@ -2,7 +2,7 @@
 
 using MethodExercise1;
 
-Methods.Exercise1();
+//Methods.Exercise1();
 
 //---------------------------Exercise 2-----------------------------------------
 
@@ -29,5 +29,7 @@ Console.WriteLine();
 Console.WriteLine("----------------------------Bonus Exercise--------------------------------");
 Console.WriteLine();
 
-Console.WriteLine($"BonusAdd Method Answer: {Methods.BonusAdd(12, 42, 33, 121)}");
+Console.WriteLine($"BonusAdd Method Answer for 8a: {Methods.BonusAdd(2, 4)}");
+Console.WriteLine($"BonusAdd Method Answer for 8b: {Methods.BonusAdd(2, 4, 6)}");
+Console.WriteLine($"BonusAdd Method Answer for 8c: {Methods.BonusAdd(1, 1, 1, 1, 1)}");
 Console.WriteLine();
