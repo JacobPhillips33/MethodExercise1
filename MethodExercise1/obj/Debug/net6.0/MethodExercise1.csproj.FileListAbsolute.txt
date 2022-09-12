@@ -1,0 +1,15 @@
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\bin\Debug\net6.0\MethodExercise1.exe
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\bin\Debug\net6.0\MethodExercise1.deps.json
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\bin\Debug\net6.0\MethodExercise1.runtimeconfig.json
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\bin\Debug\net6.0\MethodExercise1.dll
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\bin\Debug\net6.0\MethodExercise1.pdb
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\MethodExercise1.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\MethodExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\MethodExercise1.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\MethodExercise1.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\MethodExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\MethodExercise1.dll
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\refint\MethodExercise1.dll
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\MethodExercise1.pdb
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\MethodExercise1.genruntimeconfig.cache
+C:\Users\Jake\Desktop\Repos\MethodExercise1\MethodExercise1\obj\Debug\net6.0\ref\MethodExercise1.dll
