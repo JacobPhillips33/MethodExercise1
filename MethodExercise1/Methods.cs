@@ -66,5 +66,17 @@ namespace MethodExercise1
 
             return totalAdd;
         }
+
+        public static int Sum(params int[] parameters)
+        {
+            int sum = 0;
+
+            for (int i=0; i < parameters.Length; i++)
+            {
+                sum += parameters[i];
+            }
+
+            return sum;
+        }
     }        
 }

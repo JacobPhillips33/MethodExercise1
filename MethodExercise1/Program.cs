@@ -33,3 +33,12 @@ Console.WriteLine($"BonusAdd Method Answer for 8a: {Methods.BonusAdd(2, 4)}");
 Console.WriteLine($"BonusAdd Method Answer for 8b: {Methods.BonusAdd(2, 4, 6)}");
 Console.WriteLine($"BonusAdd Method Answer for 8c: {Methods.BonusAdd(1, 1, 1, 1, 1)}");
 Console.WriteLine();
+
+Console.WriteLine();
+Console.WriteLine("----------------------------Bonus Exercise John's Code--------------------------------");
+Console.WriteLine();
+
+Console.WriteLine($"John's Code Answer for 8a: {Methods.Sum(2, 4)}");
+Console.WriteLine($"John's Code Answer for 8b: {Methods.Sum(2, 4, 6)}");
+Console.WriteLine($"John's Code Answer for 8c: {Methods.Sum(1, 1, 1, 1, 1)}");
+Console.WriteLine();
